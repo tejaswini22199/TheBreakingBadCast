@@ -1,9 +1,9 @@
 * It is a practice project of mine where I used breakingbad api to display the character names along with thier photos and nicknames. 
 #### Techstack
-React
-Java Script
-HTML
-CSS
+* React
+* Java Script
+* HTML
+* CSS
 #### Api
 https://breakingbadapi.com/
 ![bbad2](https://user-images.githubusercontent.com/43006347/101470586-30a06000-396c-11eb-8c14-4e0540d3d2c5.JPG)
