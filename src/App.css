@@ -1,0 +1,46 @@
+body
+{
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(205,77,227,1) 35%, rgba(0,212,255,1) 100%);
+color:white;
+margin-left:50px;
+margin-right:50px;
+} 
+.form-control
+{
+    align-items: center;
+}
+.center
+{
+   display: block;
+
+}
+.Image
+{
+    border:1px solid blue;
+}
+.search
+{
+    padding: 10px;
+    height:100px;
+    width: 60%;
+}
+.card-cards
+{
+    display:flex;
+    align-items: center;
+}
+.cardmain
+{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+input[type='text'] {
+    display: block;
+    padding: 10px;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+    width: 60%;
+    margin: auto;
+  }
