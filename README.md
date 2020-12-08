@@ -1,3 +1,12 @@
+* It is a practice project of mine where I used breakingbad api to display the character names along with thier photos and nicknames. 
+#### Techstack
+React
+Java Script
+HTML
+CSS
+#### Api
+https://breakingbadapi.com/
+![bbad](https://user-images.githubusercontent.com/43006347/101470080-8c1e1e00-396b-11eb-8d2c-2e77121cd9e9.JPG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+* Credits:Brad Traversy sir
